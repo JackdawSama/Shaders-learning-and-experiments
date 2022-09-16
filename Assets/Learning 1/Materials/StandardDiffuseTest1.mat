@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: StandardColour
-  m_Shader: {fileID: 4800000, guid: 9b1714cc79e02b04e98b2da1ae2fe2b4, type: 3}
+  m_Name: StandardDiffuseTest1
+  m_Shader: {fileID: 4800000, guid: 5882c537676a19a458207240eef37fd1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -65,9 +65,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 0.5
+    - _Metallic: 0
     - _Mode: 0
-    - _MySliderValue: 4.49
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
@@ -76,7 +75,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _AmbientColour: {r: 0.990566, g: 0, b: 0, a: 1}
-    - _Color: {r: 0.28773582, g: 0.42053068, b: 1, a: 1}
+    - _Color: {r: 1, g: 0.23113209, b: 0.23113209, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
